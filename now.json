@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "name": "blog-server",
+  "name": "nestjs-now",
   "builds": [
     {
       "src": "dist/main.js",
-      "use": "@vercel/node"
+      "use": "@now/node"
     }
   ],
   "routes": [
