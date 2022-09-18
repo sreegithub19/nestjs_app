@@ -3,7 +3,7 @@
  1. npm i -g @nestjs/cli
  2. nest new nestjs_app
  3. cd nestjs_app
- 4. npm run start
+ 4. npm run start   (http://localhost:3000/)
 
 
  Deployment :
