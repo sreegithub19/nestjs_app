@@ -23,7 +23,7 @@ Deployment :
 - npm run build && now
 - vercel --prod ( to override later)
 
-  (Everytime there is a git push, steps to be followed to include even deployment into Vercel):
+  (Everytime there is a git push, the steps to be followed to include even deployment into Vercel):
 
   - git add .
   - git commit -m "Changes"
