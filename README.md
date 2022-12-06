@@ -11,7 +11,7 @@ https://docs.nestjs.com/first-steps
 Versions used in this project:
 
 - Angular CLI: 14.1.2
-- Node: 16.10.0
+- Node : 16.10.0
 - Package Manager: npm 7.24.0
 
 Deployment :
