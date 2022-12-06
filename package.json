@@ -1,7 +1,7 @@
 {
   "name": "nestjs-app",
   "version": "0.0.1",
-  "description": "",
+  "description": "Steps to run:   https://docs.nestjs.com/first-steps",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -67,5 +67,17 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreegithub19/nestjs_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sreegithub19/nestjs_app/issues"
+  },
+  "homepage": "https://github.com/sreegithub19/nestjs_app#readme"
 }
