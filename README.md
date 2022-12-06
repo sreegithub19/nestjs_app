@@ -8,7 +8,7 @@ https://docs.nestjs.com/first-steps
 - npm install
 - npm run start (http://localhost:3000/)
 
-Versions used:
+Versions used in this project:
 
 - Angular CLI: 14.1.2
 - Node: 16.10.0
