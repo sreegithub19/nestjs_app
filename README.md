@@ -14,14 +14,26 @@ Versions used:
 - Node: 16.10.0
 - Package Manager: npm 7.24.0
 
-Deployment : - link: https://trilon.io/blog/deploying-nestjs-to-zeit-now - npm i -g now - now login - now.json (fill it) - npm run build && now - vercel --prod ( to override later)
+Deployment :
 
-    (Everytime there is a git push, steps to be followed to include even deployment into Vercel):
-      - git add .
-      - git commit -m "Changes"
-      - git push origin master
-      - npm run build && now
-      - vercel --prod
+- link: https://trilon.io/blog/deploying-nestjs-to-zeit-now
+- npm i -g now vercel
+- now login
+- now.json (fill it)
+- npm run build && now
+- vercel --prod ( to override later)
+
+  (Everytime there is a git push, steps to be followed to include even deployment into Vercel):
+
+  - git add .
+  - git commit -m "Changes"
+  - git push origin master
+  - npm run build && now (enter through all questions)
+  - vercel --prod
+
+  (All in one command):
+
+  - git add . && git commit -m "Changes" && git push origin master && npm run build && now && vercel --prod
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
