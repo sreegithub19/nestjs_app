@@ -1,3 +1,8 @@
+Details:
+
+- <a href="https://nestjs.com/">Nest. JS</a> is a framework that helps build Node. JS server-side applications. The Nest framework is built using TypeScript which allows developers to build highly scalable and testable applications. Built on top of Express.
+- Github <a href="https://github.com/nestjs/nest">link</a> to Nestjs.
+---------------------------------
 Steps to run:
 https://docs.nestjs.com/first-steps
 
@@ -8,12 +13,14 @@ https://docs.nestjs.com/first-steps
 - npm install
 - npm run start (http://localhost:3000/)
 
+---------------------------------
 Versions used in this project:
 
 - Angular CLI: 14.1.2
 - Node : 16.10.0
 - Package Manager: npm 7.24.0
 
+---------------------------------
 Deployment :
 
 - link: https://trilon.io/blog/deploying-nestjs-to-zeit-now
@@ -35,6 +42,7 @@ Deployment :
 
   - git add . && git commit -m "Changes" && git push origin master && npm run build && now && vercel --prod
 
+---------------------------------
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
