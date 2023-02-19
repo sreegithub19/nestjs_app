@@ -32,7 +32,7 @@ Deployment :
 - now login
 - now.json (fill it)
 - npm run build && now
-- vercel --prod ( to override later)
+- vercel --prod  ( to override later)
 
   (Everytime there is a git push, the steps to be followed to include even deployment into Vercel):
 
