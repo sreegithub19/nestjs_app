@@ -45,6 +45,7 @@ Deployment :
   (All in one command):
 
   - git add . && git commit -m "Changes" && git push origin master && npm run build && now && vercel --prod
+  - git add . && git commit -m "Changes" && git push origin master && vercel --prod
 
 ---------------------------------
 <p align="center">
