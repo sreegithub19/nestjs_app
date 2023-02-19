@@ -1,7 +1,11 @@
 Details:
 
 - <a href="https://nestjs.com/">Nest. JS</a> is a framework that helps build Node. JS server-side applications. The Nest framework is built using TypeScript which allows developers to build highly scalable and testable applications. Built on top of Express.
-- Github <a href="https://github.com/nestjs/nest">link</a> to Nestjs.
+- Github <a href="https://github.com/nestjs/nest">link</a> to NestJS.
+- About this project:
+    - This project has the implementation of a few games and apps using NestJS, and deployed onto Vercel.
+    - Following apps have been implemented:
+        - Calculator: 
 ---------------------------------
 Steps to run:
 https://docs.nestjs.com/first-steps
