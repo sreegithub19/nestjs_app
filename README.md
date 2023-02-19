@@ -2,9 +2,6 @@ Details:
 
 - View this project demo :
 
-
-
-
 - <a href="https://nestjs.com/">Nest. JS</a> is a framework that helps build Node. JS server-side applications. The Nest framework is built using TypeScript which allows developers to build highly scalable and testable applications. Built on top of Express.
 - Github <a href="https://github.com/nestjs/nest">link</a> to NestJS.
 - About this project:
@@ -109,6 +106,9 @@ Deployment :
 
   - git add . && git commit -m "Changes" && git push origin master && npm run build && now && vercel --prod
   - git add . && git commit -m "Changes" && git push origin master && vercel --prod
+
+(Note):
+Direct pull / clone from remote repo and deployment might result in failed deployment due to absence of "dist" folder. This folder is generated only by running the project locally atleast once.
 
 ---
 
