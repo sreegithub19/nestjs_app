@@ -107,7 +107,7 @@ Deployment :
   - npm run build && now (enter through all questions)
   - vercel --prod
 
-  (All in one command) :
+  (All in one command):
 
   - git add . && git commit -m "Changes" && git push origin master && npm run build && now && vercel --prod
   - git add . && git commit -m "Changes" && git push origin master && vercel --prod
