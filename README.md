@@ -1,5 +1,7 @@
 Details:
 
+- View this project demo on <a href="https://www.youtube.com/watch?v=1TV3vUGNr-o&list=PLbkOKmQRnCn45kDUhMIgzyGSAj7u0v4xU">Youtube</a>.
+
 - <a href="https://nestjs.com/">Nest. JS</a> is a framework that helps build Node. JS server-side applications. The Nest framework is built using TypeScript which allows developers to build highly scalable and testable applications. Built on top of Express.
 - Github <a href="https://github.com/nestjs/nest">link</a> to NestJS.
 - About this project:
