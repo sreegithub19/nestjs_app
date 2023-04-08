@@ -23,7 +23,7 @@ Details:
 
     - Puzzles: User will have to rearrange the pieces to form the picture that is shown on the screen. The steps and time taken are counted.
 
-      - There are a sample of 5 images in this app (Harju-Madis Church, Kakumäe Harbor, Kohila mill, Rahumäe train station, Neeruti manor).
+      - There are a sample of 5 images in this app.
       - This game has 4 levels of difficulty:
         - Easy (3x3)
         - Medium (4x4)
